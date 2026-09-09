@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.23"
   latestRelease: "v1.0.23"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T04:46:00Z
+  collectedAt: 2026-09-09T18:59:53Z
 timeline:
   created: 2020-09-24
   lastCommit: 2026-06-18
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-18
   lastPrerelease: 
 popularity:
-  star: 414
+  star: 415
   watcher: 3
   fork: 20
   release: 21
@@ -83,7 +83,7 @@ total:
   commit: 102
 ---
 path: /home/runner/.x-repo/github.com/danielgatis/imgcat
-collectedAt: 2026-09-09T04:46:01Z
+collectedAt: 2026-09-09T18:59:54Z
 loc:
   Go:
     code: 376
