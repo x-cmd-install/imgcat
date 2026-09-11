@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.23"
   latestRelease: "v1.0.23"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:06:24Z
+  collectedAt: 2026-09-11T04:56:21Z
 timeline:
   created: 2020-09-24
   lastCommit: 2026-06-18
@@ -83,7 +83,7 @@ total:
   commit: 102
 ---
 path: /home/runner/.x-repo/github.com/danielgatis/imgcat
-collectedAt: 2026-09-11T00:06:25Z
+collectedAt: 2026-09-11T04:56:23Z
 loc:
   Go:
     code: 376
