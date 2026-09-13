@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1291390,
       "digest": "sha256:a64c870e874c59fcd09964c4052daaa96ff0b64edaa202a8b43c768c5cf196f7",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-06-18T12:22:20Z",
       "updated_at": "2026-06-18T12:22:20Z",
       "browser_download_url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.23/imgcat_1.0.23_darwin_amd64.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1214952,
       "digest": "sha256:4e836f75e20bc0d27f24b237040b147520ad7e2d7c95e18a0af6ecd5943d745d",
-      "download_count": 271,
+      "download_count": 274,
       "created_at": "2026-06-18T12:22:19Z",
       "updated_at": "2026-06-18T12:22:20Z",
       "browser_download_url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.23/imgcat_1.0.23_darwin_arm64.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1283883,
       "digest": "sha256:5617bb4b99b1bf8033c797dca49e7fc2378b35f4f2dda3dc3edaab96bc2861f0",
-      "download_count": 206,
+      "download_count": 210,
       "created_at": "2026-06-18T12:22:19Z",
       "updated_at": "2026-06-18T12:22:19Z",
       "browser_download_url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.23/imgcat_1.0.23_linux_amd64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 1348820,
       "digest": "sha256:40dc0f7135943d9b787090c32ea4a5d1ed9ba4a41257277e6c19d761bb3916fc",
-      "download_count": 60,
+      "download_count": 61,
       "created_at": "2026-06-18T12:22:19Z",
       "updated_at": "2026-06-18T12:22:19Z",
       "browser_download_url": "https://github.com/danielgatis/imgcat/releases/download/v1.0.23/imgcat_1.0.23_windows_amd64.zip"
