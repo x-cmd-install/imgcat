@@ -28,9 +28,9 @@ Overall score: **3 / 10**
 
 Lowest-scoring checks:
 
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (1/10) — Found 3/20 approved changesets -- score normalized to 1
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 
 ## Source
 
@@ -45,7 +45,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 420 · **Forks**: 21 · **Open issues**: 15 · **Contributors**: 9
+- **Stars**: 422 · **Forks**: 21 · **Open issues**: 15 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-07 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-08 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-09 | 1 | 1 | 1 | 1 | 1 | 19 |
-| 360d | 2025-10-11 | 1 | 2 | 1 | 5 | 1 | 22 |
-| last720d | 2024-10-16 | 3 | 4 | 1 | 6 | 1 | 41 |
+| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-08 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-07-09 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-10 | 1 | 1 | 1 | 1 | 1 | 19 |
+| 360d | 2025-10-12 | 1 | 2 | 1 | 5 | 1 | 22 |
+| last720d | 2024-10-17 | 3 | 4 | 1 | 6 | 1 | 41 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for imgcat lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:21:35Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:58:29Z._
