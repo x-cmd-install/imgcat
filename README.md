@@ -55,12 +55,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-20 | 0 | 0 | 1 | 0 | 1 | 0 |
-| 90d | 2026-07-21 | 0 | 0 | 1 | 0 | 1 | 0 |
-| last180d | 2026-04-22 | 1 | 1 | 1 | 1 | 1 | 19 |
-| 360d | 2025-10-24 | 1 | 2 | 1 | 5 | 1 | 22 |
-| last720d | 2024-10-29 | 3 | 4 | 1 | 6 | 1 | 41 |
+| 30d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-21 | 0 | 0 | 1 | 0 | 1 | 0 |
+| 90d | 2026-07-22 | 0 | 0 | 1 | 0 | 1 | 0 |
+| last180d | 2026-04-23 | 1 | 1 | 1 | 1 | 1 | 19 |
+| 360d | 2025-10-25 | 1 | 2 | 1 | 5 | 1 | 22 |
+| last720d | 2024-10-30 | 3 | 4 | 1 | 6 | 1 | 41 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for imgcat lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:38:51Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:52:27Z._
